@@ -20,7 +20,7 @@
 
 # 第二步：数据处理
 	这里方法很多，可以手动也可以代码自动，就不提供代码了
-	将获取的数据按等量原则放入hands_elements_data_all.csv表中，同时做好标签如：
+	将获取的数据按等量原则放入hands_elements_data_all.csv表中，同时做好标签如（提供的hands_elements_data_all.csv作为参考）：
 
 	INDUS	CHAS	NOX	RM	AGE	DIS	ZERO	ONE	TWO	THREE	FOUR	FIVE	FZ	FACE
 	4.92E-04	4.11E-05	1.16E-08	3.24E-06	-1.11E-06	30.16510035	1	0	0	0	0	0	0	0
