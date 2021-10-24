@@ -1,6 +1,7 @@
 ## hand_gesture_recognition
 使用opencv提取手势数据，使用神经网络训练出想要的手势模型，最后将手势模型加载到手势识别程序完成手势命令的获取
 工具：opencv3
+演示视频地址：https://www.bilibili.com/video/BV1P3411k7d5/
 
 # 写在前面：
 项目内容是我大三时参加比赛一边学习一边完成的，有很多不足之处但目前还没有优化
